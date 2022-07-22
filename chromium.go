@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/saucesteals/fhttp/http2"
-	utls "github.com/saucesteals/utls"
+	"github.com/h3adex/fhttp/http2"
+	utls "github.com/h3adex/utls"
 )
 
 var (

@@ -3,10 +3,10 @@ package mimic
 import (
 	"log"
 
-	http "github.com/saucesteals/fhttp"
-	utls "github.com/saucesteals/utls"
+	http "github.com/h3adex/fhttp"
+	utls "github.com/h3adex/utls"
 
-	"github.com/saucesteals/fhttp/http2"
+	"github.com/h3adex/fhttp/http2"
 )
 
 type ClientSpec struct {

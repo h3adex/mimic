@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
-	http "github.com/saucesteals/fhttp"
-	"github.com/saucesteals/mimic"
+	http "github.com/h3adex/fhttp"
+	"github.com/h3adex/mimic"
 )
 
 var (
